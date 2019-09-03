@@ -14,6 +14,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: SIDHARTH MOHAN
+- Roll No.: 2019010053637
+- Interests: AI
+

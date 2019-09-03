@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: URVI  
+- Roll No.:2018CSA1216
+- Interests: PYTHON

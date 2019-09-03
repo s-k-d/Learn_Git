@@ -15,6 +15,9 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
+- Name: Akashdeep Singh
+- Roll No.:2018CSA1015
+- Interests: Web dev, ML, competitive programming 
 
 - Name: URVI  
 - Roll No.:2018CSA1216

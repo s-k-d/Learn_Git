@@ -25,4 +25,8 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 - Name: Manjot Singh
 - Roll No.: 2019010052211
-- Interests: wanted to learn about coding 
+- Interests: wanted to learn about coding
+
+- Name: Puneet Saini
+- Roll No.: 2016CSA1146
+- Interests: Guest appearances at GitHub workshops

@@ -18,3 +18,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Roll No.:2019010053576
 - Interests: AI
 
+- Name: NIRMAL DEEP KAUR
+- Roll NO.: 155
+- Intrests : Web Development, Graphics Designing .
+

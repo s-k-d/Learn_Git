@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Puneet Saini
+- Roll No.: 2016CSA1146
+- Interests: Guest appearances at GitHub workshops

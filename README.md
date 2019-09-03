@@ -34,3 +34,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Name: SIDHARTH MOHAN
 - Roll No.: 2019010053637
 - Interests: AI
+
+- Name: Nachiketa Dev Sharma  
+- Roll No.: 2018CSA1136
+- Interests: Python, Web Development

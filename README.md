@@ -30,3 +30,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Name: Puneet Saini
 - Roll No.: 2016CSA1146
 - Interests: Guest appearances at GitHub workshops
+
+- Name: SIDHARTH MOHAN
+- Roll No.: 2019010053637
+- Interests: AI
